@@ -1,0 +1,146 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+		a.wsp19be05d3{ color:#5D5D9E; text-decoration: none} 
+		a.wsp19be05d3:visited{ color:#5D5D9E; text-decoration: none} 
+		a.wsp19be05d3:active{ color:#5C615E; text-decoration: none} 
+		a.wsp19be05d3:hover{ color:#B2B3B4; text-decoration: none} 
+#menu_73996d52 a { text-decoration: none; }
+#menu_73996d52_pane { background-color: #E6E6E6; border: 1px solid #E6E6E6; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_73996d52_hr { background-color: #E6E6E6; height: 1px; border: none; }
+#menu_73996d52_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_73996d52_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_73996d52_entry:hover span { color:#FFFFFF !important; }
+		.menu_73996d52_mainMenuEntry { text-align: center; }
+		.menu_73996d52_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_73996d52_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_73996d52 .mobileEntry { display: none; } 
+		#menu_73996d52 .normalEntry { display: block; } 
+		@media only screen and (max-width:550px) { 
+			#menu_73996d52 .mobileEntry { display: block; } 
+			#menu_73996d52 .normalEntry { display: none; } 
+		}
+#table_44cb10ea th { border: 1px solid #8C8C8C;  } 
+#table_44cb10ea td { border: 1px solid #8C8C8C;  } 
+body { background-color:#EAD2EF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#menu_73996d52 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:38px; text-align:left; background-color:#E5E5E5; background: linear-gradient(to bottom, #FFFFFF, #E5E5E5); border: 1px solid #A0A0A0;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:38px; height:38px; left:10px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:34px;  }
+.textstyle2 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:61px; height:38px; left:10px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle3 { position:absolute; width:61px; height:38px; left:71px;  }
+.menustyle4 { position:absolute; width:93px; height:38px; left:132px;  }
+.menustyle5 { position:absolute; width:98px; height:38px; left:225px;  }
+.textstyle4 { text-align:center; }
+#heading_38d84016 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#heading_43c53a13 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:center;  }
+#table_44cb10ea { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-table; width:50%; height:753px; background:none; border: 1px solid #8C8C8C; table-layout: fixed;  }
+#cell_664fa20d {  }
+#cell_6622240a {  }
+#cell_2286bec4 {  }
+#cell_1ecf836b {  }
+#cell_3ae50138 {  }
+#cell_d44083a {  }
+#cell_364fc6ef {  }
+#cell_1335c185 {  }
+.textstyle6 { text-align:right; }
+#cell_390ed6cf {  }
+#cell_61335ac9 {  }
+#cell_75161c14 {  }
+#cell_6cda2c7d {  }
+#cell_1ac8416c {  }
+#cell_41e6b0b5 {  }
+#cell_46cd45f0 {  }
+#cell_2c6d1cf9 {  }
+#cell_cadd24 {  }
+#cell_1a04663b {  }
+#cell_3a399678 {  }
+#cell_60c6f3ec {  }
+#cell_1d8109d7 {  }
+#cell_77999247 {  }
+#cell_41ec3784 {  }
+#cell_4c9f950f {  }
+#cell_6964e319 {  }
+#cell_4273e302 {  }
+#cell_305fa971 {  }
+#cell_7b8644b {  }
+#cell_5d84c213 {  }
+#cell_67164ad2 {  }
+#cell_4daaec73 {  }
+#cell_63ff5a24 {  }
+#cell_24077c0b {  }
+#cell_72e246b0 {  }
+#cell_54c1f79 {  }
+#cell_4af67b10 {  }
+#cell_2fb76c5e {  }
+#cell_27f9768a {  }
+#cell_1a3ee0a2 {  }
+#cell_402ae2e8 {  }
+#cell_527c9d25 {  }
+#cell_5f84856a {  }
+#cell_2191c062 {  }
+#cell_145ecce {  }
+#cell_3d342753 {  }
+#cell_557b038c {  }
+#cell_489df6f7 {  }
+#cell_63c9512c {  }
+#cell_1fd4c9e6 {  }
+#cell_27f177e8 {  }
+#cell_3f3d880e {  }
+#cell_3ade5d35 {  }
+#cell_3516863a {  }
+#cell_5227be86 {  }
+#cell_37e7c178 {  }
+#cell_f6af83f {  }
+#cell_7d61f365 {  }
+#cell_24d99453 {  }
+#cell_2af7a1c3 {  }
+#cell_3b8255bd {  }
+#cell_4a287bb8 {  }
+#cell_163946b7 {  }
+#cell_42e9b2a7 {  }
+#cell_6130f3f7 {  }
+#cell_56477c64 {  }
+#cell_2adbc2fc {  }
+#cell_65ad7335 {  }
+#cell_1ab16334 {  }
+#cell_c1deae1 {  }
+#cell_27a8afc4 {  }
+#cell_1bebe94e {  }
+#cell_5792776d {  }
+#cell_6eb1ec4e {  }
+#cell_213ec43c {  }
+#cell_6e4bea11 {  }
+#cell_22bcb976 {  }
+#cell_68ece93e {  }
+#cell_554a246f {  }
+#cell_3764b465 {  }
+#cell_3cfad10c {  }
+#cell_7ec57676 {  }
+#cell_6f8f0ddc {  }
+#cell_2f5ac983 {  }
+#cell_6cd9bd6d {  }
+#cell_36acfce1 {  }
+#cell_70deaeb3 {  }
+#cell_26e067e {  }
+#cell_409c95b4 {  }
+#cell_7a51b944 {  }
+#cell_d2cea7e {  }
+#cell_487743b1 {  }
+#cell_1d83b182 {  }
+#cell_45b3a700 {  }
+#cell_7107b3b8 {  }
+#cell_7836d4e8 {  }
+#cell_4483d04f {  }
+#cell_5d0d2816 {  }
+#cell_27c32fab {  }
+#cell_174f47aa {  }
+#cell_6ed60c91 {  }
+#cell_48452c2b {  }
